@@ -31,3 +31,4 @@ C:\Users\Namdev Computers\Desktop\Task Manager\TaskManagerAPI\TaskManagerAPI\obj
 C:\Users\Namdev Computers\Desktop\Task Manager\TaskManagerAPI\TaskManagerAPI\obj\Debug\net8.0\TaskManagerAPI.pdb
 C:\Users\Namdev Computers\Desktop\Task Manager\TaskManagerAPI\TaskManagerAPI\obj\Debug\net8.0\TaskManagerAPI.genruntimeconfig.cache
 C:\Users\Namdev Computers\Desktop\Task Manager\TaskManagerAPI\TaskManagerAPI\obj\Debug\net8.0\ref\TaskManagerAPI.dll
+C:\Users\Namdev Computers\Desktop\Task Manager\TaskManagerAPI\TaskManagerAPI\obj\Debug\net8.0\TaskManagerAPI.sourcelink.json
