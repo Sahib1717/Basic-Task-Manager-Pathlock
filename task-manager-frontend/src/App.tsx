@@ -10,7 +10,7 @@ interface Task {
   isCompleted?: boolean;
 }
 
-const API_URL = "https://basic-task-manager-pathlock-3.onrender.com";
+const API_URL = "https://basic-task-manager-pathlock-3.onrender.com/api/tasks";
 
 const App: React.FC = () => {
   const [tasks, setTasks] = useState<Task[]>([]);
