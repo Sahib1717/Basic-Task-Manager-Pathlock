@@ -2,7 +2,7 @@ import axios from "axios";
 import { TaskItem } from "./types";
 
 // const API_URL = "http://localhost:5164/api/tasks";
-const API_URL = "https://basic-task-manager-pathlock-2.onrender.com";
+const API_URL = "https://basic-task-manager-pathlock-3.onrender.com";
 
 
 export const getTasks = () => axios.get<TaskItem[]>(API_URL);
