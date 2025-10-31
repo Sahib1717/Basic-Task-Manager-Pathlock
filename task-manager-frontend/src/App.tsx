@@ -10,7 +10,7 @@ interface Task {
   isCompleted?: boolean;
 }
 
-const API_URL = "https://basic-task-manager-pathlock-3.onrender.com/api/todo";
+const API_URL = "https://basic-task-manager-pathlock-4.onrender.com/api/todo";
 // const API_URL = "http://localhost:5164/api/todo";
 
 const App: React.FC = () => {
